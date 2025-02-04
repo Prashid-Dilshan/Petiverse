@@ -59,7 +59,7 @@ function sendStatusNotification($email, $status) {
     <title>Admin - Vet Registration Review</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet">
     <!-- Replace YOUR_API_KEY with your actual Google Maps API key -->
-    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDHdLOieN0OIcTyyY6CmJv6gPNx-OX3MwA"></script>
+    <script src=""></script>
     <style>
         .map-container {
             height: 300px;
